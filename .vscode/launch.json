@@ -1,0 +1,109 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "Ex02.Main"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "Ex03.Main"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "Ex04.Main"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MainClass",
+            "request": "launch",
+            "mainClass": "Ex01.MainClass"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "app.Main"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Ex_08",
+            "request": "launch",
+            "mainClass": "app.Ex_08",
+            "projectName": "Exercicios_Java_Basico (2)"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Ex_07",
+            "request": "launch",
+            "mainClass": "app.Ex_07",
+            "projectName": "Exercicios_Java_Basico (2)"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Ex_05",
+            "request": "launch",
+            "mainClass": "app.Ex_05",
+            "projectName": "Exercicios_Java_Basico (2)"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Ex_06",
+            "request": "launch",
+            "mainClass": "app.Ex_06",
+            "projectName": "Exercicios_Java_Basico (2)"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Ex_10",
+            "request": "launch",
+            "mainClass": "app.Ex_10",
+            "projectName": "Exercicios_Java_Basico (2)"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Ex_03",
+            "request": "launch",
+            "mainClass": "app.Ex_03",
+            "projectName": "Exercicios_Java_Basico (2)"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Ex_01",
+            "request": "launch",
+            "mainClass": "app.Ex_01",
+            "projectName": "Exercicios_Java_Basico (2)"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - app",
+            "request": "launch",
+            "mainClass": "app.app"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ex22",
+            "request": "launch",
+            "mainClass": "app.ex22",
+            "projectName": "ex-21"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "app.App"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "app.App",
+            "projectName": "ex-11"
+        }
+    ]
+}

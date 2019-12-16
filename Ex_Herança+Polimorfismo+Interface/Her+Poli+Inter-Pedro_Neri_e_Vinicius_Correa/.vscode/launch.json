@@ -1,0 +1,39 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "Ex10.Main",
+            "projectName": "EX_Exercícios+Herança+Polimorfismo+Interface"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Loja",
+            "request": "launch",
+            "mainClass": "Ex03.Loja",
+            "projectName": "EX_Exercícios+Herança+Polimorfismo+Interface"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Loja",
+            "request": "launch",
+            "mainClass": "Ex02.Loja",
+            "projectName": "EX_Exercícios+Herança+Polimorfismo+Interface"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "Ex05.App",
+            "projectName": "EX_Exercícios+Herança+Polimorfismo+Interface"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "Ex01.App",
+            "projectName": "EX_Exercícios+Herança+Polimorfismo+Interface"
+        }
+    ]
+}

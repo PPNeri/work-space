@@ -1,0 +1,46 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "Ex05.Main",
+            "projectName": "Ex_oo_Java"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MainClass",
+            "request": "launch",
+            "mainClass": "Ex01Definitivo.MainClass",
+            "projectName": "Ex_oo_Java"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "Ex04.Main",
+            "projectName": "Ex_oo_Java"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "Ex03.Main",
+            "projectName": "Ex_oo_Java"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "Ex02.Main",
+            "projectName": "Ex_oo_Java"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MainClass",
+            "request": "launch",
+            "mainClass": "Ex01.MainClass",
+            "projectName": "Ex_oo_Java"
+        }
+    ]
+}

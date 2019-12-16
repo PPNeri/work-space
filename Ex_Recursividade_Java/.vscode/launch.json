@@ -1,0 +1,74 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Ex_11",
+            "request": "launch",
+            "mainClass": "app.Ex_11",
+            "projectName": "Ex_Recursividade_Java"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Ex_10",
+            "request": "launch",
+            "mainClass": "app.Ex_10",
+            "projectName": "Ex_Recursividade_Java"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Ex_09",
+            "request": "launch",
+            "mainClass": "app.Ex_09",
+            "projectName": "Ex_Recursividade_Java"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Ex_08",
+            "request": "launch",
+            "mainClass": "app.Ex_08",
+            "projectName": "Ex_Recursividade_Java"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Ex_07",
+            "request": "launch",
+            "mainClass": "app.Ex_07",
+            "projectName": "Ex_Recursividade_Java"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Ex_06",
+            "request": "launch",
+            "mainClass": "app.Ex_06",
+            "projectName": "Ex_Recursividade_Java"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Ex_05",
+            "request": "launch",
+            "mainClass": "app.Ex_05",
+            "projectName": "Ex_Recursividade_Java"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Ex_03",
+            "request": "launch",
+            "mainClass": "app.Ex_03",
+            "projectName": "Ex_Recursividade_Java"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Ex_02",
+            "request": "launch",
+            "mainClass": "app.Ex_02",
+            "projectName": "Ex_Recursividade_Java"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Ex_01",
+            "request": "launch",
+            "mainClass": "app.Ex_01",
+            "projectName": "Ex_Recursividade_Java"
+        }
+    ]
+}

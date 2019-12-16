@@ -1,0 +1,88 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Ex_09",
+            "request": "launch",
+            "mainClass": "app.Ex_09",
+            "projectName": "Ex_Arrays_Java"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Ex_08",
+            "request": "launch",
+            "mainClass": "app.Ex_08",
+            "projectName": "Ex_Arrays_Java"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Ex_07",
+            "request": "launch",
+            "mainClass": "app.Ex_07",
+            "projectName": "Ex_Arrays_Java"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Ex_06",
+            "request": "launch",
+            "mainClass": "app.Ex_06",
+            "projectName": "Ex_Arrays_Java"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Ex_05",
+            "request": "launch",
+            "mainClass": "app.Ex_05",
+            "projectName": "Ex_Arrays_Java"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Ex_04",
+            "request": "launch",
+            "mainClass": "app.Ex_04",
+            "projectName": "Ex_Arrays_Java"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Ex_03",
+            "request": "launch",
+            "mainClass": "app.Ex_03",
+            "projectName": "Ex_Arrays_Java"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Ex_02",
+            "request": "launch",
+            "mainClass": "app.Ex_02",
+            "projectName": "Ex_Arrays_Java"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Ex_01d",
+            "request": "launch",
+            "mainClass": "app.Ex_01d",
+            "projectName": "Ex_Arrays_Java"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Ex_01c",
+            "request": "launch",
+            "mainClass": "app.Ex_01c",
+            "projectName": "Ex_Arrays_Java"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Ex_01b",
+            "request": "launch",
+            "mainClass": "app.Ex_01b",
+            "projectName": "Ex_Arrays_Java"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Ex_01a",
+            "request": "launch",
+            "mainClass": "app.Ex_01a",
+            "projectName": "Ex_Arrays_Java"
+        }
+    ]
+}
